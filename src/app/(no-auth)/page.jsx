@@ -304,7 +304,7 @@ export default function Home() {
             sus necesidades y proponiendo soluciones adecuadas para su negocio.
           </p>
           {/* <ul className='min-w-[80%] grid grid-cols-1 gap-4'>
-            {
+            {         
               services.map((i, index) =>
                 <div key={index}>
                   <Service i={i} index={index}></Service>
